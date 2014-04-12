@@ -1,0 +1,19 @@
+{
+  "name": "rcf",
+  "version": "0.0.1",
+  "description": "Run commands forever",
+  "main": "bin/cli.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jhollingworth/rcf.git"
+  },
+  "author": "James Hollingworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhollingworth/rcf/issues"
+  },
+  "homepage": "https://github.com/jhollingworth/rcf"
+}
